@@ -1,0 +1,6 @@
+application\Main.class
+application\models\Band.class
+application\models\Genre.class
+application\models\Festival.class
+application\models\FestivalStage.class
+application\models\OnViewModelChangedListener.class
