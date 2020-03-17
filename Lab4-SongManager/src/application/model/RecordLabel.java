@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  * It holds Records
- * @author edn12
+ * @author Interco
  */
 public class RecordLabel {
 	public String getName() {

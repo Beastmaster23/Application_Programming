@@ -10,7 +10,7 @@ import javafx.scene.Scene;
 
 /**
  * Controls the app by only one scene.
- * @author edn12
+ * @author Interco
  *
  */
 public abstract class SceneController {	
